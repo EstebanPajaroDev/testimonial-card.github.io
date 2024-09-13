@@ -5,6 +5,8 @@
 </p>
 ## Tecnologias usadas:
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+
 
 ### Visita la Pagina [Testimonial Cards](https://estebanpajarodev.github.io/testimonial-card.github.io/)
 
